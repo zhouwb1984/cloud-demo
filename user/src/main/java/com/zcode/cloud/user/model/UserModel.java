@@ -13,7 +13,6 @@ import javax.persistence.Id;
 import java.math.BigDecimal;
 
 /**
- * @author zhouwenbo1@vipkid.com.cn
  * @since 2019/1/17
  */
 @Entity(name="user")
